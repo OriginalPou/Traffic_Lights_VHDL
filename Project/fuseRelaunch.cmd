@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/DELL/Desktop/Projet_VHDL_Feu_Carrefour_B19/test_bench_flicker_isim_beh.exe" -prj "C:/Users/DELL/Desktop/Projet_VHDL_Feu_Carrefour_B19/test_bench_flicker_beh.prj" "work.test_bench_flicker" 
